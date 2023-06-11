@@ -14,7 +14,6 @@ navObserver.observe(scrollWatcher)
 
 
 
-
 // media menu collapse
 
 let MenuItems = document.getElementById("MenuItems");
